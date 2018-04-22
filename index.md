@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 这是一个用express框架写成的个人博客系统
 
-You can use the [editor on GitHub](https://github.com/nyhxiaoning/mybloglog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+> 我的个人网站主页是*nyhxiaoning.github.io*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+- 项目技术描述
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+这里面结合了mysql和mongo两种数据库的验证登录，利用express的框架搭建而成，同时采用boostrap3的框架样式，还有利用aniamate.css制作而成
 
-```markdown
-Syntax highlighted code block
+- 编辑器
+使用submit webstorm  vscode atom
 
-# Header 1
-## Header 2
-### Header 3
+- 项目功能
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nyhxiaoning/mybloglog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+实现一个个人博客的效果，同时也具有了一种个人的留言和查看的功能，可以当成日记本来查看，利用mongo数据库存储（当然也可以改成mysql的存储方式）
